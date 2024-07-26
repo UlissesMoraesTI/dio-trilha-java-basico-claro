@@ -7,7 +7,7 @@ public class ContaTerminal {
         String nomeCliente = " ";
         String agencia = " ";
         int conta = 0;
-        float saldo = 0;
+        double saldo = 0;
 
         Scanner leitorDeEntradas = new Scanner(System.in);
 
